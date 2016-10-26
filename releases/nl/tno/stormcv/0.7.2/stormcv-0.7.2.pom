@@ -40,7 +40,7 @@
 	<repositories>
 		<repository>
 			<id>StormCV repo</id>
-			<url>http://github.com/sensorstorm/maven/raw/master/releases/</url>
+			<url>https://github.com/arminnima/maven-1/blob/master/releases/</url>
 		</repository>
 		<repository>
 			<id>xuggle repo</id>
